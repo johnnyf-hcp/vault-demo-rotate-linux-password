@@ -1,4 +1,4 @@
-# Demo of HashiCorp Vault rotating linux user passwords
+# Demo of rotating linux server user passwords with passwords stored in HashiCorp Vault
 This is using a Jupyter notebook to execute the steps required.
 It also assumes that you have HashiCorp Vault installed and configured on your side.
 
